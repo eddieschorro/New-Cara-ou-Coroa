@@ -43,6 +43,7 @@ public class activity_resultado extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 finish();
+                //@TODO IMPLEMENTAR CONTADOR NA TELA INICIAL
             }
         });
 
